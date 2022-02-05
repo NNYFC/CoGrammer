@@ -1,2 +1,3 @@
-# Syncbills
-Using Gmail API to read labels and messages of a Gmail User after authentification
+# Section C
+say the inserted Number numeral in letter.
+Written in JavaScript
